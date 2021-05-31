@@ -35,4 +35,3 @@ class Libro:
         return self.__autor
     def getIdentificador(self):
         return self.__idLibro
-
