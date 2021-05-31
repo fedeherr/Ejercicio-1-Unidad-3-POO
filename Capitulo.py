@@ -1,5 +1,5 @@
 class Capitulo:
-    titulo = 'x'
+    titulo = 'x' 
     cantidadPaginas = 0
     def __init__(self, titulo = 'x', cantidadPaginas = 0):
         self.__titulo = titulo
